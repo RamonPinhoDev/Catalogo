@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Catalogo.API/Catalogo.API.csproj" Id="55680e9d-9c4e-48d8-bd1f-3187d1667e7b" />
+  <Project Path="Catalogo.Application/Catalogo.Application.csproj" Id="e6f33ef6-6d1d-4c98-ae2f-103789b6d4ec" />
+  <Project Path="Catalogo.CrossCutting/Catalogo.CrossCutting.csproj" Id="bf1b19d2-516b-4874-9b57-9c2be97a052d" />
+  <Project Path="Catalogo.Domain/Catalogo.Domain.csproj" Id="c3bbeff8-6de8-48d5-a522-b86cb19800e3" />
+  <Project Path="Catalogo.Infrastructure/Catalogo.Infrastructure.csproj" Id="eb704ec2-64f1-4505-9934-cfca4a753fb1" />
+</Solution>
